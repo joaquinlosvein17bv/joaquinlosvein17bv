@@ -1,3 +1,16 @@
+<div align="center">
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/TU_USUARIO/count.svg"/>
+  <br/>
+</div>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&bg_color=212121&color=ffffff&line=404db0&point=ffcd42&area=true&hide_border=true"/>
+</div>
+
+
+
 # 💫 About Me:
 Soy desarrollador de software apasionado por crear soluciones innovadoras que resuelvan problemas del mundo real. Me especializo en el desarrollo backend utilizando NestJS y TypeScript, con una sólida experiencia en el diseño de APIs REST robustas y la gestión de bases de datos (PostgreSQL, MongoDB). Disfruto construyendo sistemas interactivos y en tiempo real mediante WebSockets, y tengo experiencia llevando proyectos completos a producción, como sistemas de punto de venta (POS) con arquitecturas PWA. Además, integro herramientas de IA y agentes de desarrollo en mis flujos de trabajo para potenciar la creación de aplicaciones modernas y plataformas educativas.
 
