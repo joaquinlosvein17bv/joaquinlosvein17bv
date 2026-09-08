@@ -1,13 +1,8 @@
-<div align="center">
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/joaquinlosvein17bv/count.svg"/>
-  <br/>
-</div>
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=joaquinlosvein17bv&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaquinlosvein17bv&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaquinlosvein17bv&bg_color=212121&color=ffffff&line=404db0&point=ffcd42&area=true&hide_border=true"/>
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaquinlosvein17bv&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaquinlosvein17bv&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=joaquinlosvein17bv&bg_color=212121&color=ffffff&line=404db0&point=ffcd42&area=true&hide_border=true)
 
 
 
